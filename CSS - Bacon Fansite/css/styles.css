@@ -1,0 +1,30 @@
+body {
+   background-color: blue;
+}
+
+p,h1 {
+   color: teal;
+}
+
+img:hover { 
+   background-color: gold;
+}
+
+
+.bacon {
+   background-color: green;
+}
+
+.broccoli {
+   background-color: red;
+}
+
+#headings {
+   color: blue; 
+}
+
+.red {
+   height: 100px;
+   width: 100px;
+   background-color: red;
+}

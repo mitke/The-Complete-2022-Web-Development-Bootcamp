@@ -1,0 +1,47 @@
+
+body { 
+   background-color:  powderblue; 
+   margin: 0px;
+}
+
+hr {
+   background-color: powderblue;
+   border-style: dotted none none;
+   border-top-width: 7px;
+   border-color: grey;
+   width: 10%;  
+}
+h1,h3,p {
+   color: teal;
+}
+
+td {
+   padding: 10px;
+}
+
+.topbox {
+   background-color: blue;
+   padding: 20px;
+   width: 200px;
+   height: 200px;
+
+
+}
+
+.middlebox {
+   background-color: slateblue;
+   height: 200px;
+   width: 200px;
+   border: solid 20px;
+   margin-left: 260px;
+}
+
+.bottombox {
+   background-color:red;
+   height: 200px;
+   width: 200px;
+   border: solid 10px;
+   margin-left: 500px;
+}
+
+
